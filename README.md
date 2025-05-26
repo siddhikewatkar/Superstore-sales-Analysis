@@ -1,4 +1,4 @@
-![Uploading superstore-sales-analysis.png…]()
+![superstore-sales-analysis](https://github.com/user-attachments/assets/c05a48bb-dff0-4805-8a87-8b87924606de)
 
 ![superstore-sales-analysis2](https://github.com/user-attachments/assets/758f7280-416f-49ab-8f33-2ae1890e35ff)
 
