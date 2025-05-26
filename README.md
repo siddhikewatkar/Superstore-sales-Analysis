@@ -1,3 +1,5 @@
+![superstore-sales-analysis2](https://github.com/user-attachments/assets/758f7280-416f-49ab-8f33-2ae1890e35ff)
+
 # Superstore-sales-Analysis
 
 This Power BI dashboard provides a detailed analysis of product performance across different categories, regions, and markets. It helps businesses track sales, discounts, quantity, and market behavior to make data-driven decisions.
